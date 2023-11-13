@@ -30,12 +30,19 @@ The data was created from scratch by me. The details used were hypothetically ge
  - The tables were created and executed successfully.
 
 ![](Database_tables.png)                                               |                                         ![](SQL_tasktable.png)
+:---------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:
 
 
+![](Student_table.png)                             |                ![](Health_table.png)                      |             ![](Performance_table.png)           |
+:-------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------:
 
- - The STUDENTS_INFO table
-![](Student_table.png)
+## Conclusion
 
+My SQL journey has been an intriquing and exciting one. The world of queries is a very technical one and I believe will bring out the best in me as an analyst. Working on this project has prompted me to keep trying my hands on more and more tasks. The more challenging, the better. 
+
+"Excellence is an art won by training and habituation. We do not act rightly because we have virtue or excellence, but rather we have those because we have acted rightly. We are what we repeatedly do. Excellence, then, is not an act but a habit." - Aristotle
+
+# Thank You! 🙏
 
 
 
